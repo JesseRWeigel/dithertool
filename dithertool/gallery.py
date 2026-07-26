@@ -240,7 +240,7 @@ measured rather than asserted.">
 {_spectra_section()}
 {sections}
 <footer>
-  <p>Part of <a href="https://github.com/JesseRWeigel/thousand-catalog">thousand</a>.
+  <p>Part of <a href="https://github.com/JesseRWeigel/722-things-to-build">thousand</a>.
   Source and the full verify output are in the
   <a href="https://github.com/JesseRWeigel/dithertool">repository</a>.
   Pure Python and NumPy, no image libraries: the PNG encoder and decoder are in
