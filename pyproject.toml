@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dithertool"
+version = "0.1.0"
+description = "Nine dithering algorithms with their spectral and tonal properties measured rather than asserted"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
+
+[project.scripts]
+dithertool = "dithertool.cli:main"
+
+[tool.setuptools]
+packages = ["dithertool"]
