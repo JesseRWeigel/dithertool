@@ -9,7 +9,7 @@ about 150 lines in `pngio.py`.
 
 **[See the comparison gallery](https://jesserweigel.github.io/dithertool/)**
 
-Catalog task `ART-009`. Part of [thousand](https://github.com/JesseRWeigel/722-things-to-build).
+Catalog task `ART-009`. Part of [722 things to build](https://github.com/JesseRWeigel/722-things-to-build).
 
 ## The point
 
